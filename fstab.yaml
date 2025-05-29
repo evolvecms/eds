@@ -1,5 +1,3 @@
 mountpoints:
-  /:
-    url: "https://author-p66215-e699552.adobeaemcloud.com/bin/franklin.delivery/evolvecms/eds/main"
-    type: "markup"
-    suffix: ".html"
+  /: https://drive.google.com/drive/folders/1VgKPoZd45yp-jPoDfPJurUxs_L9HIScY
+   
